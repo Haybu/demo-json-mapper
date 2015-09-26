@@ -1,0 +1,7 @@
+{
+  "mapping": [
+       {"column": "item_id", "value": "itemId" , "type": "long"}
+      ,{"column": "model_num", "value": "modelNum" , "type": "long"}
+      ,{"column": "seller_id", "value": "sellerId" , "type": "long"}
+    ]
+}
